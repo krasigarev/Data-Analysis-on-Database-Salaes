@@ -1,6 +1,6 @@
 # Database: Sales
 
-<span style="color: green"> **Description:** <br/> </span>
+**Description:** <br/>
 
 The Sales database contains 4 tables.
 
