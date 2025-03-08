@@ -10,7 +10,7 @@ MS SQL Server and Excel
 Data querying, data validation, JOINs & UNION clauses, aggregation, datetime converting, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
 
 **Outputs:** <br/>
-•  Detailed SQL scripts with in-line comments in .sql format. 
+•  Detailed SQL scripts with in-line comments in .sql format. <br/>
 •  Excel workbook in .xlsx with multiple tabs covering data dictionary, data handling documentation, queried tables, pivot tables, and charts.
 
 **Tables in database:** <br/>
