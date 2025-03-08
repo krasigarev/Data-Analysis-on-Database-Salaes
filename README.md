@@ -1,19 +1,19 @@
 # Database: Sales
 
-** Description: **
+**Description:** <br/>
 The Sales database contains 4 tables.
 
-** Tools: **
+**Tools:** <br/>
 MS SQL Server and Excel
 
-** Skills: **
+**Skills:** <br/>
 Data querying, data validation, JOINs & UNION clauses, aggregation, datetime converting, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
 
-** Outputs: **
+**Outputs:** <br/>
 •  Detailed SQL scripts with in-line comments in .sql format. 
 •  Excel workbook in .xlsx with multiple tabs covering data dictionary, data handling documentation, queried tables, pivot tables, and charts.
 
-** Tables in database: **
+**Tables in database:** <br/>
 -	Customers<br/>
     Fields: 4<br/>
     Records: 19759
