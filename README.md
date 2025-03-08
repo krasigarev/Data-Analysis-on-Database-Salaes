@@ -1,5 +1,5 @@
-Database: Sales
-Description: The Sales database contains 4 tables.
+# Database: Sales
+# Description: The Sales database contains 4 tables.
 
 Tools: MS SQL Server and Excel
 
